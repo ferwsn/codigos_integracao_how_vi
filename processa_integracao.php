@@ -1,6 +1,6 @@
 <?php
 $nome = $_POST['nome'];
-$cpf = $_POST['CPF'];
+$cpf = $_POST['cpf'];
 $email = $_POST['email'];
 
 try {
